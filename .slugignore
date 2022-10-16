@@ -1,9 +1,9 @@
-mlflow/
+/mlflow
 ModelCard.md
 DatasetCard.md
-reports/
-references/
-src/data/great_expectations/
-pytest/
-docs/
-metrics/
+/reports
+/references
+/src/data/great_expectations
+/pytest
+/docs
+/metrics
